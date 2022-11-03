@@ -18,11 +18,8 @@ We used the pyplot class from Matplotlib to plot the chart. This class provides 
 4.Adds a grid (to make it easier to determine the values for the bars)
 5.Rotates the X markers (so we can read them)
 
-## Histogram
+## Histogram and  Pie chart
 ![image](https://user-images.githubusercontent.com/79583184/199757656-27332ce2-f68d-4163-bf01-6ed6544f6845.png)
-
-## Pie chart
-![image](https://user-images.githubusercontent.com/79583184/199757737-85ca468b-5b8c-46f0-96d4-9f34b3ef6d96.png)
 
 ## Data Distribution
 ![image](https://user-images.githubusercontent.com/79583184/199758043-c8c991a1-79a3-420e-93dd-12aef37d30ad.png)
